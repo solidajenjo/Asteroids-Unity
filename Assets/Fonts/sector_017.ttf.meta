@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: cd8fd80190cb68542a0c3096d3abaa54
+timeCreated: 1510074955
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Sector 017
+  fontNames:
+  - Sector 017
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
